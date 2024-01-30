@@ -1,19 +1,18 @@
 # Hi There, I'm Eli Kiprop👋
 
 
-<a href="https://www.twitter.com/#" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/EliKiprop9" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/#?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-[![Linkedin: Eli](https://img.shields.io/badge/-Eli-blue?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/#)
+[![Linkedin: Eli](https://img.shields.io/badge/-Eli-blue?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/eli-kiprop-b12a51240/)](https://www.linkedin.com/in/eli-kiprop-b12a51240)
 [![GitHub elikiprop ](https://img.shields.io/github/followers/elikiprop?label=follow&style=for-the-badge&color=black)](https://github.com/elikiprop)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Smart Missing Persons Finder Using AI
+- 🌱 I’m currently learning reactJs
+- 👯 I’m looking to collaborate on any project
+- 💬 Ask me about Leadership
+- 📫 How to reach me: elikiprop42@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: playing chess
 
 ## My KeyDrive
    "Foward ever, backward never "
@@ -21,7 +20,7 @@ src="https://img.shields.io/twitter/follow/#?logo=twitter&style=for-the-badge&co
 
 ## My Stack(used or still using)
 
-Bellow currently or Previously used Stack
+Below currently or Previously used Stack
 
 ### Languages 💻 🌐
 
@@ -45,8 +44,6 @@ Bellow currently or Previously used Stack
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&color=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&color=black)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux&logoColor=FCC624&color=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## My Github Stats ✨
 
