@@ -36,6 +36,8 @@ Bellow currently or Previously used Stack
 ### Frameworks, Platforms and Libraries💻 🌐
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%2300ACD7.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
 
 ### Technologies and Tool ⚙️ 🖥
 
