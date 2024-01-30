@@ -4,7 +4,7 @@
 <a href="https://www.twitter.com/#" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/#?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-[![Linkedin: Eli](https://img.shields.io/badge/-Brandon-blue?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/#)
+[![Linkedin: Eli](https://img.shields.io/badge/-Eli-blue?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/#)
 [![GitHub elikiprop ](https://img.shields.io/github/followers/elikiprop?label=follow&style=for-the-badge&color=black)](https://github.com/elikiprop)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
