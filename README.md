@@ -6,8 +6,8 @@ src="https://img.shields.io/twitter/follow/EliKiprop9?logo=twitter&style=for-the
 /></a>
 [![Linkedin: Eli](https://img.shields.io/badge/-Eli-blue?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/eli-kiprop-b12a51240/)](https://www.linkedin.com/in/eli-kiprop-b12a51240)
 [![GitHub elikiprop ](https://img.shields.io/github/followers/elikiprop?label=follow&style=for-the-badge&color=black)](https://github.com/elikiprop)
-- 🔭 I’m currently working on Smart Missing Persons Finder Using AI
-- 🌱 I’m currently learning reactJs
+- 🔭 I’m currently working on MediConnect system 
+- 🌱 I’m currently learning machine learning 
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about Leadership
 - 📫 How to reach me: elikiprop42@gmail.com
