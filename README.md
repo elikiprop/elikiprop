@@ -3,8 +3,9 @@
 <a href="https://www.twitter.com/EliKiprop9" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/EliKiprop9?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
-[![Linkedin: Eli](https://img.shields.io/badge/-Eli-blue?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/eli-kiprop-b12a51240/)](https://www.linkedin.com/in/eli-kiprop-b12a51240)
+[![Linkedin: Eli](https://img.shields.io/badge/-Eli-blue?style=for-the-badge&logo=linkedin&color=black)](https://www.linkedin.com/in/eli-kiprop-b12a51240) 
 [![GitHub elikiprop](https://img.shields.io/github/followers/elikiprop?label=follow&style=for-the-badge&color=black)](https://github.com/elikiprop)
+
 
 ---
 
