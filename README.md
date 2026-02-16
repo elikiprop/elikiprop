@@ -1,21 +1,16 @@
-# Hi There, I'm Eli Kiprop👋
+# Hi There, I'm Eli Kiprop 👋
 
-<a href="https://www.twitter.com/EliKiprop9" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/EliKiprop9?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> [![Linkedin: Eli](https://img.shields.io/badge/-Eli-blue?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/eli-kiprop-b12a51240/)](https://www.linkedin.com/in/eli-kiprop-b12a51240) [![GitHub elikiprop ](https://img.shields.io/github/followers/elikiprop?label=follow&style=for-the-badge&color=black)](https://github.com/elikiprop)
----
+<a href="https://www.twitter.com/EliKiprop9" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/EliKiprop9?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> [![Linkedin: Eli](https://img.shields.io/badge/-Eli-blue?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/eli-kiprop-b12a51240/)](https://www.linkedin.com/in/eli-kiprop-b12a51240) [![GitHub elikiprop](https://img.shields.io/github/followers/elikiprop?label=follow&style=for-the-badge&color=black)](https://github.com/elikiprop)
 
-- 🌱 I’m currently learning **Laravel (PHP framework)** and **Sencha EXTJS (JavaScript framework)**  
-- 👯 I’m looking to collaborate on **web development and software projects**  
-- 💬 Ask me about **Leadership & Tech**  
-- 📫 Reach me at: **elikiprop42@gmail.com**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: I enjoy **playing chess** ♟️  
+- 🌱 I'm currently learning **Laravel (PHP framework)** and **Sencha EXTJS (JavaScript framework)**
+- 👯 I'm looking to collaborate on **web development and software projects**
+- 💬 Ask me about **Leadership & Tech**
+- 📫 Reach me at: **elikiprop42@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I enjoy **playing chess** ♟️
 
----
-
-## 🚀 My KeyDrive  
-> *"Forward ever, backward never."*  
-
----
+## 🚀 My KeyDrive
+> *"Forward ever, backward never."*
 
 ## 💻 My Stack (used or still using)
 
@@ -32,15 +27,11 @@
 ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
----
-
 ### 📚 Frameworks, Platforms & Libraries
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%2300ACD7.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
 
 ### ⚙️ Technologies & Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -48,34 +39,26 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=postgres&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
 
 ### ☁️ Deployment / Cloud
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222.svg?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
 
 ### 📊 Project Management / Collaboration
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 
----
-
 ### 🔐 Cybersecurity Tools
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-15AABF.svg?style=for-the-badge&logo=parrot-security&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-
----
 
 ### 🌐 Networking Skills
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
@@ -84,8 +67,6 @@
 ![Network Security](https://img.shields.io/badge/Network_Security-FF0000.svg?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Firewall](https://img.shields.io/badge/Firewall-000000.svg?style=for-the-badge&logo=security&logoColor=white)
 ![Routing & Switching](https://img.shields.io/badge/Routing_&_Switching-0078D7.svg?style=for-the-badge&logo=protocols&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-
 
 ## 📈 My GitHub Stats ✨
 
